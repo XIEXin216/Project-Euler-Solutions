@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 /**
- * Project Euler problem 8
+ * Project Euler problem 11
  * @Copyright ©2020 XIEXin. All rights reserved. 
  * @date 2020-03-29
  */
